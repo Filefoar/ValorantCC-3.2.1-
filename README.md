@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=30&section=header&text=오른쪽%20Release를눌러%20다운해주세요&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <p align="center">
     <img src="https://i.imgur.com/6sh6Mng.png" width="250" height="250"><br></a>

@@ -2,6 +2,8 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=아래%20요구사항을%20읽어주세요&fontAlign=50&fontAlignY=40&color=gradient)
 
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=아래%2020&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+
 <p align="center">
     <img src="https://i.imgur.com/6sh6Mng.png" width="250" height="250"><br></a>
     <br>

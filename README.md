@@ -4,7 +4,7 @@
 
 # ValorantCC(발로란트 조준선 변경기)
 십자선의 색상을 스타일 및/또는 가시성을 위해 원하는 **ANY** 색상으로 변경합니다.
-![이미지](https://user-images.githubusercontent.com/87055977/155284250-d01577c2-5661-43b1-8759-a6a8525e7709.png)
+![이미지]([https://user-images.githubusercontent.com/87055977/155284250-d01577c2-5661-43b1-8759-a6a8525e7709.png](https://user-images.githubusercontent.com/43877122/173779633-e11aa837-71af-4a99-b35c-4eb7ec88d745.PNG))
 
 ValorantCC 커뮤니티에서 조준선을 공유하세요!<br/>
 ![이미지](https://user-images.githubusercontent.com/87055977/155284365-c802a73e-5062-4d36-b089-4116c2d85e9a.png)

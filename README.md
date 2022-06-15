@@ -14,8 +14,8 @@ ValorantCC 커뮤니티에서 조준선을 공유하세요!- 커뮤니티 쪽 �
 ![이미지](https://user-images.githubusercontent.com/87055977/155284365-c802a73e-5062-4d36-b089-4116c2d85e9a.png)
 
 ## 요구 사항
-- .NET6.0(Windows 업데이트와 함께 제공됩니다. 최신 버전의 Windows가 있는 경우 자동으로 설치되어야 합니다. 그렇지 않은 경우 .NET6.0 **DESKTOP RUNTIME**을 다운로드합니다.
-- [.NET6.0] https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.301-windows-x64-installer
+- .NET6.0이 설치되어 있어야 프로그램이 정상작동 합니다. 그렇지 않은 경우 .NET6.0 **DESKTOP RUNTIME**을 다운로드합니다.
+- [사이트 클릭하여 다운로드] https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.301-windows-x64-installer
 
 ## 사용법
 - 이 프로그램을 실행 후 라이엇 클라이언트를 한 번 켜주시고, 프로그램이 로그인에 성공하게 된다면 라이엇 클라이언트를 꺼주세요.

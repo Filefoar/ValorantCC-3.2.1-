@@ -1,4 +1,4 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20다운방법%20%20&fontAlign=15&fontSize=30&textBg=true&desc=오른쪽%20%27release%27%%20를%20클릭후%20%27ValorantCC.zip%27%20파일을%20다운로드&descAlign=60&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20다운방법%20%20&fontAlign=15&fontSize=30&textBg=true&desc=오른쪽%20%27release%27%20를%20클릭후%20%27ValorantCC.zip%27%20파일을%20다운로드&descAlign=60&descAlignY=50)
 
 <p align="center">
     <img src="https://i.imgur.com/6sh6Mng.png" width="250" height="250"><br></a>

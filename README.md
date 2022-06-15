@@ -6,7 +6,7 @@
 십자선의 색상을 스타일 및/또는 가시성을 위해 원하는 **ANY** 색상으로 변경합니다.
 ![이미지](https://user-images.githubusercontent.com/43877122/173779816-0b21727b-697e-4567-abff-e6765fdd3be2.PNG)
 
-ValorantCC 커뮤니티에서 조준선을 공유하세요!<br/>
+ValorantCC 커뮤니티에서 조준선을 공유하세요!- 커뮤니티 쪽 부분은 한글패치를 그냥 안했습니다.<br/>
 ![이미지](https://user-images.githubusercontent.com/87055977/155284365-c802a73e-5062-4d36-b089-4116c2d85e9a.png)
 
 ## 요구 사항

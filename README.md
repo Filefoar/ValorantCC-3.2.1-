@@ -1,6 +1,6 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20다운방법%20%20&fontAlign=15&fontSize=30&textBg=true&desc=오른쪽%20%27Release%27%20를%20클릭후%20%27ValorantCC.zip%27%20파일을%20다운로드&descAlign=60&descAlignY=50)
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=아래%20요구사항을%20읽어주세요&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=아래%20요구사항을%20읽어주세요&fontAlign=40&fontAlignY=40&color=gradient)
 
 <p align="center">
     <img src="https://i.imgur.com/6sh6Mng.png" width="250" height="250"><br></a>
